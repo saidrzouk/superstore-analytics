@@ -1,6 +1,6 @@
 # Superstore Analytics
 
-A retail analytics project using Oracle SQL, Excel, and Power BI to analyze the Tableau Superstore dataset.
+A retail analytics project using Oracle SQL, Excel, and Power BI to analyze the Superstore dataset from Kaggle.
 
 ## Project structure
 
@@ -16,13 +16,11 @@ superstore-analytics/
 
 ## Dataset
 
-Download the Tableau Sample - Superstore dataset from the Tableau sample datasets page and save it as:
+Download the Superstore dataset from Kaggle and save it as:
 
 ```text
 data/Sample - Superstore.csv
 ```
-
-The CSV file is ignored by Git through `.gitignore`.
 
 ## Oracle setup
 

@@ -1,0 +1,4 @@
+Category,total_sales,total_profit,total_quantity,average_discount,profit_margin_percent,discount_status
+Technology,836154.033,145454.9481,6939,0.1323226854358419,17.395712076891936,No immediate warning
+Office Supplies,719047.032,122490.8008,22906,0.15728509790906076,17.035158390028652,No immediate warning
+Furniture,741999.7953,18451.2728,8028,0.1739226779820839,2.4866951334588867,No immediate warning
